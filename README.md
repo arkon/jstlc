@@ -1,5 +1,9 @@
 # JS TLC - Front End Optimization
 
+A little website made as an example of what _not_ to do, so people can try their hand at optimizing it.
+
+![Tinfusion website screenshot](https://cloud.githubusercontent.com/assets/4098258/11424786/f15ec39e-941d-11e5-85be-2d8020ba8e0f.png)
+
 ## Getting Started
 
 ### Prerequisites
